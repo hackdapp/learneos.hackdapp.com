@@ -1,5 +1,21 @@
-**blog**: [https://www.hackdapp.com](https://www.hackdapp.com)
 
-**mail**: 55269778@qq.com
+\\------------------------------------------------------------------------------------------------------------
 
-**wechat**: rushking2009
+**欢迎关注HackDApp博客或公众号**, HackHook将持续为你分享IndieMaker成长路径、DAPP技术知识、高效Mac使用技巧、底层思维认知。
+
+------------------------------------------------------------------------------------------------------------
+
+我的博客:     https://www.hackdapp.com/
+
+我的github:   https://github.com/hackdapp
+
+我的哔哩哔哩:   https://space.bilibili.com/17360859
+
+我的微信公众号: hackdapp
+![](http://cdn.hackdapp.com/2019-04-03-mysign.jpg)
+
+IndieMakers:  https://www.indiemakers.cn
+
+------------------------------------------------------------------------------------------------------------
+
+联系邮箱：55269778@qq.com
