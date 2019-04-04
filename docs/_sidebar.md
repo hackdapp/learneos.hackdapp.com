@@ -1,5 +1,4 @@
 * [Home]()
-* [Introduce]()
 * [目录大纲]()
   * [第一部分、C++导读](cplus/cplus_intro)
     * [1.1 简易程序入门](cplus/simple_cplus_learn)
