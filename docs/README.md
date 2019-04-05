@@ -9,6 +9,8 @@
 ## 📇 changelog
 ----
 
+- 2019-04-05
+  - 发布文章<<[合约数据存储](contracts/data_persistent)>>
 - **2019-04-04**
   - 上线[http://learneos.hackdapp.com](http://learneos.hackdapp.com/#/)网站
   - 重新编排书籍大纲
