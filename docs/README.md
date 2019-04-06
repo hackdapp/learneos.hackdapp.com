@@ -9,6 +9,8 @@
 ## 📇 changelog
 ----
 
+- 2019-04-06
+  - 发布文章<<[模板定义与使用](cplus/cplus_templates)>>
 - 2019-04-05
   - 发布文章<<[合约数据存储](contracts/data_persistent)>>
 - **2019-04-04**
