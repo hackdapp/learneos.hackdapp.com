@@ -24,7 +24,7 @@
     * [4.1 存储合约数据](contracts/data_persistent)
     * 4.2 多个合约间交互
     * 4.3 定制TOKEN合约、发行及转帐交互
-    * 4.4 同步与异步调用合约方法
+    * [4.4 同步与异步调用合约方法](contracts/inline_deferred_actions)
     * [4.5 打包数据上链](contracts/store_data2chain)
     * 4.6 随机数生成
     * 4.7 预言机，与外部世界通讯
