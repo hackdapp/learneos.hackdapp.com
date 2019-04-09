@@ -9,7 +9,7 @@
 ## 📇 changelog
 ----
 - 2019-04-09
-  - 
+  - 发布文章: [2.4 解读合约编译ABI格式及其作用](http://learneos.hackdapp.com/#/contracts/intro_abi)
 - 2019-04-08
   - 发布文章: [4.4 同步与异步调用合约方法](contracts/inline_deferred_actions)
 - 2019-04-07
