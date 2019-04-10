@@ -19,6 +19,7 @@
     * 2.2 智能合约
     * 2.3 共识机制
     * [2.4 解读合约编译ABI格式及其作用](contracts/intro_abi)
+    * [2.5 EOS智能合约开发之CDT套件](contracts/contract_dev_kit)
   * [第三部分、深入理解智能合约]()
   * [第四部分、高级应用技巧]()
     * [4.1 存储合约数据](contracts/data_persistent)

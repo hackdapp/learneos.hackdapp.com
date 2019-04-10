@@ -8,6 +8,8 @@
 
 ## 📇 changelog
 ----
+- 2019-04-10
+  - 发布文章: [2.5 EOS智能合约开发之CDT套件](http://learneos.hackdapp.com/#/contracts/contract_dev_kit)
 - 2019-04-09
   - 发布文章: [2.4 解读合约编译ABI格式及其作用](http://learneos.hackdapp.com/#/contracts/intro_abi)
 - 2019-04-08
