@@ -8,6 +8,8 @@
 
 ## 📇 changelog
 ----
+- 2019-04-11
+  - 发布文章：[4.13 分级权限授权](http://learneos.hackdapp.com/#/contracts/eos_contract_auth)
 - 2019-04-10
   - 发布文章: [2.5 EOS智能合约开发之CDT套件](http://learneos.hackdapp.com/#/contracts/contract_dev_kit)
 - 2019-04-09
