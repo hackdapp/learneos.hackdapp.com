@@ -8,6 +8,8 @@
 
 ## 📇 changelog
 ----
+- 2019-04-12
+  - 发布文章: [5.1 剖析eosio.token智能合约](http://learneos.hackdapp.com/#/contracts/analyze_eosiotoken)
 - 2019-04-11
   - 发布文章：[4.13 分级权限授权](http://learneos.hackdapp.com/#/contracts/eos_contract_auth)
 - 2019-04-10

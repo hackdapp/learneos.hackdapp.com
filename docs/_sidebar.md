@@ -37,7 +37,7 @@
     * [4.13 分级权限授权](contracts/eos_contract_auth)
     * 4.13 合约漏洞与安全防护
   * [第五部分、剖析第三方合约]()
-    * 5.1 eosio.token
+    * [5.1 剖析eosio.token智能合约](contracts/analyze_eosiotoken)
     * 5.2 dice
     * 5.3 ......
   * [第六部分、实战开发---去中心化游戏]()
