@@ -23,6 +23,7 @@
   * [第三部分、深入理解智能合约]()
   * [第四部分、高级应用技巧]()
     * [4.1 存储合约数据](contracts/data_persistent)
+    * [4.1.1 存储合约数据之单例用法](contracts/eos_persistent_singleton)
     * 4.2 多个合约间交互
     * 4.3 定制TOKEN合约、发行及转帐交互
     * [4.4 同步与异步调用合约方法](contracts/inline_deferred_actions)
