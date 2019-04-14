@@ -8,6 +8,8 @@
 
 ## 📇 changelog
 ----
+- 2019-04-15
+  - 发布文章：[4.10 合约发布与升级](http://learneos.hackdapp.com/#/contracts/contract_deploy)
 - 2019-04-13
   - 发布文章：[4.1.1 存储合约数据之单例用法](http://learneos.hackdapp.com/#/contracts/eos_persistent_singleton)
 - 2019-04-12
