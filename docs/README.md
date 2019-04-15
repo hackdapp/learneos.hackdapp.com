@@ -8,6 +8,8 @@
 
 ## 📇 changelog
 ----
+- 2019-04-16
+  - [4.9 合约编译](http://learneos.hackdapp.com/#/contracts/contract_compile)
 - 2019-04-15
   - 发布文章：[4.10 合约发布与升级](http://learneos.hackdapp.com/#/contracts/contract_deploy)
 - 2019-04-13
