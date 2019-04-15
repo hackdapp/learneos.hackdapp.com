@@ -2,7 +2,7 @@
 
 在前面几个章节曾经介绍过ABI文件结构及CDT开发套件，那么本章节将介绍如何使用CDT套件中的eosio-cpp命令编译并生成具体的abi及wasm文件。
 
-** eosio-cpp**
+**eosio-cpp**
 
 作为一个最常用的命令，主要用于生成智能合约接口描述ABI文件以及发布合约所必须的二进制编译WASM文件
 
@@ -38,7 +38,7 @@ compiler options:
   -E                       - Only run the preprocessor
   -I=<string>              - Add directory to include search path
   -L=<string>              - Add directory to library search path
-
+......
 ```
 
 然后，使用eosio-cpp命令进行合约编译，生成对应abi合约描述文件及wasm合约文件
