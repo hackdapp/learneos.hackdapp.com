@@ -8,12 +8,15 @@
 
 ## 📇 changelog
 ----
+- 2019-04-17
+  - 发布文章：[4.1.1 Multi-Index完整用法及示例讲解---总目录](http://learneos.hackdapp.com/#/contracts/multiindex_begin)
+  - 发布文章：[4.1.2 Multi-Index完整用法及示例讲解---索引器定义篇](http://learneos.hackdapp.com/#/contracts/multiindex_idx)
 - 2019-04-16
   - 发布文章：[4.9 合约编译](http://learneos.hackdapp.com/#/contracts/contract_compile)
 - 2019-04-15
   - 发布文章：[4.10 合约发布与升级](http://learneos.hackdapp.com/#/contracts/contract_deploy)
 - 2019-04-13
-  - 发布文章：[4.1.1 存储合约数据之单例用法](http://learneos.hackdapp.com/#/contracts/eos_persistent_singleton)
+  - 发布文章：[4.1.3 存储合约数据之单例用法](http://learneos.hackdapp.com/#/contracts/eos_persistent_singleton)
 - 2019-04-12
   - 发布文章: [5.1 剖析eosio.token智能合约](http://learneos.hackdapp.com/#/contracts/analyze_eosiotoken)
 - 2019-04-11
