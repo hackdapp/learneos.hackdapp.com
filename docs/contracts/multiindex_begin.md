@@ -23,5 +23,5 @@
 **章节目录**
 1. [Multi-Index完整用法及示例讲解---索引器定义篇](contracts/multiindex_idx)
 2. [MMulti-Index完整用法及示例讲解---数据存储篇](contracts/multiindex_store)
-3. Multi-Index完整用法及示例讲解---数据检索篇
+3. [MMulti-Index完整用法及示例讲解---数据检索篇](contracts/multiindex_search)
 4. Multi-Index完整用法及示例讲解---迭代器篇

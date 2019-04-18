@@ -8,6 +8,8 @@
 
 ## changelog
 ----
+- 2019-04-19
+  - 发布文章: [4.1.4 MMulti-Index完整用法及示例讲解---数据检索篇](http://learneos.hackdapp.com/#/contracts/multiindex_search)
 - 2019-04-18
   - 发布文章: [4.1.3 MMulti-Index完整用法及示例讲解---数据存储篇](http://learneos.hackdapp.com/#/contracts/multiindex_store)
 - 2019-04-17
