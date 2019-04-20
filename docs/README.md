@@ -8,12 +8,14 @@
 
 ## changelog
 ----
+- 2019-04-21
+  发布文章：[4.2 合约间交互](http://learneos.hackdapp.com/#/contracts/contract_communication)
 - 2019-04-20
   - 发布文章： [4.1.5 Multi-Index完整用法及示例讲解---数据检索篇](http://learneos.hackdapp.com/#/contracts/multiindex_iterator)
 - 2019-04-19
-  - 发布文章: [4.1.4 MMulti-Index完整用法及示例讲解---数据检索篇](http://learneos.hackdapp.com/#/contracts/multiindex_search)
+  - 发布文章: [4.1.4 Multi-Index完整用法及示例讲解---数据检索篇](http://learneos.hackdapp.com/#/contracts/multiindex_search)
 - 2019-04-18
-  - 发布文章: [4.1.3 MMulti-Index完整用法及示例讲解---数据存储篇](http://learneos.hackdapp.com/#/contracts/multiindex_store)
+  - 发布文章: [4.1.3 Multi-Index完整用法及示例讲解---数据存储篇](http://learneos.hackdapp.com/#/contracts/multiindex_store)
 - 2019-04-17
   - 发布文章：[4.1.1 Multi-Index完整用法及示例讲解---总目录](http://learneos.hackdapp.com/#/contracts/multiindex_begin)
   - 发布文章：[4.1.2 Multi-Index完整用法及示例讲解---索引器定义篇](http://learneos.hackdapp.com/#/contracts/multiindex_idx)

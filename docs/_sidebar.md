@@ -29,7 +29,7 @@
     * [4.1.4 Multi-Index完整用法及示例讲解---数据检索篇](contracts/multiindex_search)
     * [4.1.5 Multi-Index完整用法及示例讲解---数据检索篇](contracts/multiindex_iterator)
     * [4.1.6 存储合约数据之单例用法](contracts/eos_persistent_singleton)
-    * 4.2 多个合约间交互
+    * [4.2 合约间交互](contracts/contract_communication)
     * 4.3 定制TOKEN合约、发行及转帐交互
     * [4.4 同步与异步调用合约方法](contracts/inline_deferred_actions)
     * [4.5 打包数据上链](contracts/store_data2chain)
