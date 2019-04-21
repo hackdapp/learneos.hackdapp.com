@@ -4,7 +4,8 @@
 
 ### find
 **功能**： 基于主键或二级字段索引快速查询某条数据，并返回**const\_iterator**迭代器实例
-```bash
+
+```
 const_iterator eosio::multi_index::find (
     uint64_t primary
 ) const
@@ -14,7 +15,8 @@ const_iterator eosio::multi_index::find (
 **返回结果**：当对二级字段索引进行查询时，可能会检索到多条数据记录，可通过迭代器进行循环查询, 会在迭代器小节文章中进行介绍。
 
 **代码示例**： 查询主键值为1的用户
-```bash
+
+```
 //1. 实例化索引器
 user_index userestable(_self, _self.value); // code, scope
 
@@ -25,12 +27,13 @@ auto iter = userestable.find(1); //此处直接返回便是const_iterator对象
 eosio_assert(itr->account_name == 1, "Incorrect user ");
 ```
 
-注：**userestable.find(1)**方法返回的const\_iterator对象，如果想要访问实例属性，是需要按照指针调用的形式进行获取。 比如: iter-\> account\_name，只有直接通过数据结构体进行实例化时，才会使用user.account\_name的形式获取属性值。
+注：**userestable.find(1)** 方法返回的const\_iterator对象，如果想要访问实例属性，是需要按照指针调用的形式进行获取。 比如: iter-\> account\_name，只有直接通过数据结构体进行实例化时，才会使用user.account\_name的形式获取属性值。
 比如: `user newinstance = user(); newinstance.account_name = "xxx";`。
 
 ### require\_find
 功能： 基于主键字段索引快速查询某条数据，并返回**const\_iterator** 迭代器实例。如若不存在，则抛出事先定义的例外。
-```bash
+
+```
 const_iterator eosio::multi_index::require_find (
     uint64_t primary,
     const char * error_msg = "unable to find key"
@@ -44,7 +47,8 @@ const_iterator eosio::multi_index::require_find (
 **返回结果**：当对二级字段索引进行查询时，可能会检索到多条数据记录，可通过迭代器进行循环查询, 会在迭代器小节文章中进行介绍。
 
 **代码示例**：查询主键值为1的用户
-```bash
+
+```
 //1. 实例化索引器
 user_index userestable(_self, _self.value); // code, scope
 
@@ -60,7 +64,8 @@ eosio_assert(itr != userestable.end(), "not found object");
 
 ### get
 功能：基于主键字段索引快速某条数据，并返回其数据对象。
-```bash
+
+```
 const T & eosio::multi_index::get (
     uint64_t primary,
     const char * error_msg = "unable to find key"
@@ -71,7 +76,8 @@ const T & eosio::multi_index::get (
 - error\_msg 例外消息。可自行定义消息内容。
 
 **代码示例**：查询主键值为1的数据实例
-```bash
+
+```
 //1. 实例化索引器
 user_index userestable(_self, _self.value); // code, scope
 
@@ -88,9 +94,11 @@ print user.account_name
 
 ```
 ### lower\_bound
-功能：基于主键或二级字段索引， 查询大于或等于指定参数的**const\_iterator**迭代器对象。
 
-```bash
+功能：基于主键或二级字段索引， 查询大于或等于指定参数的 **const\_iterator** 迭代器对象。
+
+
+```
 const_iterator eosio::multi_index::lower_bound (
     uint64_t primary
 ) const
@@ -102,7 +110,8 @@ const_iterator eosio::multi_index::lower_bound (
 **返回结果**：当对二级字段索引进行查询时，可能会检索到多条数据记录，可通过迭代器进行循环查询, 会在迭代器小节文章中进行介绍。
 
 **代码示例**：查询年龄小于10的用户列表
-```bash
+
+```
 user_index userestable(_self, _self.value); // code, scope
 
 userestable.emplace(_self, [&](auto& s){
@@ -131,7 +140,8 @@ eosio_assert(iter == agestable.end(), "Incorrect End of Iterator");
 ```
 ### upper\_bound
 **功能**：基于主键或二级字段索引， 查询小于或等于指定参数的**const\_iterator**迭代器对象。
-```bash
+
+```
 const_iterator eosio::multi_index::upper_bound (
     uint64_t primary
 ) const
@@ -142,7 +152,8 @@ const_iterator eosio::multi_index::upper_bound (
 **返回结果**：当对二级字段索引进行查询时，可能会检索到多条数据记录，可通过迭代器进行循环查询, 会在迭代器小节文章中进行介绍。
 
 **代码示例**:
-```bash
+
+```
 user_index userestable(_self, _self.value); // code, scope
 
 userestable.emplace(_self, [&](auto& s){

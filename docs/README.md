@@ -8,6 +8,8 @@
 
 ## changelog
 ----
+- 2019-04-21
+  - 发布文章：[6.1 配置开发环境](http://learneos.hackdapp.com/#/contracts/practice/prepare)
 - 2019-04-20
   - 发布文章：[4.2 合约间交互](http://learneos.hackdapp.com/#/contracts/contract_communication)
 - 2019-04-19
