@@ -8,6 +8,8 @@
 
 ## changelog
 ----
+- 2019-04-22
+  - 发布文章: [6.2 搭建项目工程](http://learneos.hackdapp.com/#/contracts/practice/build_project)
 - 2019-04-21
   - 发布文章：[6.1 配置开发环境](http://learneos.hackdapp.com/#/contracts/practice/prepare)
 - 2019-04-20
